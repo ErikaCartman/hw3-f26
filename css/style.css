@@ -96,7 +96,6 @@ nav a:focus {
 .security-image img,
 .loans-image img,
 .contact-image img {
-  display: block;
   height: 100%;
   max-height: 675px;
   object-fit: cover;
